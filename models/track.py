@@ -5,5 +5,6 @@ class Track(BaseModel):
     title: str
     artist: Optional[str]
     album: Optional[str]
-    duration: Optional[int]
+    duration: Optional[float]
     url: str
+    path: Optional[str]
