@@ -16,6 +16,7 @@ Microservicio que se ocupa de gestionar conexión a YouTube usando la librería 
 - Gestión interna eficiente de *playlists* y *tracks* en base a clases.
 - Paralelización del proceso de recuperación de tracks y descarga.
 - Tests
+- Documentación
 
 ---
 
