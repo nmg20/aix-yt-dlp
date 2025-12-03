@@ -22,9 +22,7 @@ Microservicio que se ocupa de gestionar conexión a YouTube usando la librería 
 
 ## Arranque del módulo
 ```
-{
 cd .\aix-yt-dlp\
 & C:/Users/nicog/Desktop/sw/aix-workspace/aix/.venv/Scripts/Activate.ps1
 uvicorn app:app --reload --host 0.0.0.0 --port 8000
-}
 ```
